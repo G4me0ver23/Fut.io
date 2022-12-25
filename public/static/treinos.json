@@ -1,0 +1,22 @@
+[
+    {
+      "image": "http://localhost:3000/static/ImgTreinos/Treino1.png",
+      "link": "/treino1"
+    },
+    {
+      "image": "http://localhost:3000/static/ImgTreinos/Treino1.png",
+      "link": "/treino2"
+    },
+    {
+      "image": "http://localhost:3000/static/ImgTreinos/Treino1.png",
+      "link": "/treino3"
+    },
+    {
+      "image": "http://localhost:3000/static/ImgTreinos/Treino1.png",
+      "link": "/treino4"
+    },
+    {
+      "image": "http://localhost:3000/static/ImgTreinos/Treino1.png",
+      "link": "/treino5"
+    }
+]
