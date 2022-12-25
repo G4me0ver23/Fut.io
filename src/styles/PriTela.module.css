@@ -1,0 +1,9 @@
+.PriTela {
+  display: grid;
+  grid-template-rows: 100px 300px 100px;
+  /* border: 4px solid black;
+  border-radius: 13px; */
+  height: 646px;
+  width: 301px;
+  justify-content: center;
+}
