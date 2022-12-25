@@ -1,0 +1,18 @@
+[
+    {
+      "image": "http://localhost:3000/static/ImgPosicoes/Posicao1.png",
+      "link": "/posicao1"
+    },
+    {
+      "image": "http://localhost:3000/static/ImgPosicoes/Posicao2.png",
+      "link": "/posicao2"
+    },
+    {
+      "image": "http://localhost:3000/static/ImgPosicoes/Posicao3.png",
+      "link": "/posicao3"
+    },
+    {
+      "image": "http://localhost:3000/static/ImgPosicoes/Posicao4.png",
+      "link": "/posicao4"
+    }
+]
