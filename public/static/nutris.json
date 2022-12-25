@@ -1,0 +1,14 @@
+[
+    {
+      "image": "http://localhost:3000/static/ImgNutri/Dieta.png",
+      "link": "/nutri1"
+    },
+    {
+      "image": "http://localhost:3000/static/ImgNutri/Metas.png",
+      "link": "/nutri2"
+    },
+    {
+      "image": "http://localhost:3000/static/ImgNutri/Medidas.png",
+      "link": "/nutri3"
+    }
+]
