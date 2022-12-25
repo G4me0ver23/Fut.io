@@ -1,0 +1,22 @@
+[
+    {
+      "image": "http://localhost:3000/static/ImgPsico/Psico1.png",
+      "link": "/psico1"
+    },
+    {
+      "image": "http://localhost:3000/static/ImgPsico/Psico1.png",
+      "link": "/psico2"
+    },
+    {
+      "image": "http://localhost:3000/static/ImgPsico/Psico1.png",
+      "link": "/psico3"
+    },
+    {
+      "image": "http://localhost:3000/static/ImgPsico/Psico1.png",
+      "link": "/psico4"
+    },
+    {
+      "image": "http://localhost:3000/static/ImgPsico/Psico1.png",
+      "link": "/psico5"
+    }
+]
